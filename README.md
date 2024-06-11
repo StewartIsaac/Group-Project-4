@@ -1,5 +1,7 @@
 **__Project Description 📝__**
+
 Library Management System built with Express.js, Node.js, and MongoDB for the Access Bank YouThrive Backend Program's Final Project 4
+
 
 
 **Project Deliverables 🧩**
@@ -17,7 +19,9 @@ Library Management System built with Express.js, Node.js, and MongoDB for the Ac
 - Implement functionality to track overdue books and fines.
 - Test all routes and functionalities thoroughly.
 
+
 **Team Members 🤝**
+
 The amazing team behind this project comprises of:
 1. Alabi Gbenga 🔗https://github.com/AlabiGbenga
 2. Gabriel Isaac 🔗https://github.com/StewartIsaac
