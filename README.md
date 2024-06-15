@@ -22,9 +22,9 @@ Library Management System built with Express.js, Node.js, and MongoDB for the __
 ## Team Members 🤝
 
 The amazing team behind this project comprises of:
-1. [Alabi Gbenga] (https://github.com/AlabiGbenga)
-2. [Gabriel Isaac] (https://github.com/StewartIsaac)
-3. [Abeng Aloysius] (https://github.com/alonsocares1)
-4. [Maduabuchukwu Christopher] (https://github.com/MaduabuchukwuChristopher)
-5. [Anas Yunusa] (https://github.com/anas-Y)
+1. [Alabi Gbenga](https://github.com/AlabiGbenga)
+2. [Gabriel Isaac](https://github.com/StewartIsaac)
+3. [Abeng Aloysius](https://github.com/alonsocares1)
+4. [Maduabuchukwu Christopher](https://github.com/MaduabuchukwuChristopher)
+5. [Anas Yunusa](https://github.com/anas-Y)
 
