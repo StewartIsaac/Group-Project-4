@@ -1,10 +1,10 @@
-**__Project Description 📝__**
+***__Project Description 📝__***
 
 Library Management System built with Express.js, Node.js, and MongoDB for the Access Bank YouThrive Backend Program's Final Project 4
 
 
 
-**Project Deliverables 🧩**
+***Project Deliverables 🧩***
 - Create a new project directory.
 - Initialize a Node.js project and install necessary packages (Express, MongoDB, Mongoose, JWT, bcrypt).
 - Implement user registration and login using JWT. 
@@ -27,4 +27,5 @@ The amazing team behind this project comprises of:
 2. Gabriel Isaac 🔗https://github.com/StewartIsaac
 3. Abeng Aloysius 🔗https://github.com/alonsocares1
 4. Maduabuchukwu Christopher 🔗https://github.com/MaduabuchukwuChristopher
+5. Anas Yunusa 🔗https://github.com/anas-Y
 
