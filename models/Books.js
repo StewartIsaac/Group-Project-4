@@ -1,19 +1,15 @@
 const mongoose = require("mongoose");
 
 const BookSchema = new mongoose.Schema({
-    bookName:{
+    title:{
         type:String,
         require:true
-    },
-    alternateTitle:{
-        type:String,
-        default:""
     },
     author:{
         type:String,
-        require:true
+        default:""
     },
-    language:{
+    bookISBN:{
         type:String,
         default:""
     },
@@ -21,22 +17,14 @@ const BookSchema = new mongoose.Schema({
         type:String,
         default:""
     },
-    bookCountAvailable:{
+    availableCopies:{
         type:Number,
         require:true
-    },
-    bookStatus:{
-        type:String,
-        default:"Available"
     },
     categories:[{ 
         type: mongoose.Types.ObjectId, 
         ref: "BookCategory" 
     }],
-    transactions:[{
-        type:mongoose.Types.ObjectId,
-        ref:"BookTransaction"
-    }]
 },
 {
     timestamps:true
